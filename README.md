@@ -22,7 +22,7 @@ Readme is a boilerplate for creating organized readme or documentation for any p
  
 ## Prerequisites
  
-If your project needs any prerequisites or dependencies, list them here or remove.
+If your project needs any prerequisites or dependencies, list them here.
  
 ```
 Example to install dependencies
