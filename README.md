@@ -14,12 +14,12 @@ The project comes with Code Of Conduct, Contributing and Changelog file to help 
  - [Prerequisites](#prerequisites)
  - [Installation](#installation)
  - [Demo](#demo)
- - [Tests & Usages](#testusages)
+ - [Tests](#tests)
  - [Author](#author)
  - [Contributors](#contributors)
  - [Contribution](#contribution)
  - [License](#license)
- - [Additional Details / References](#additional)
+ - [Additional Details / References](#additional-details--references)
  - [Changelog](#changelog)
  
 ## Prerequisites
