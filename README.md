@@ -5,7 +5,7 @@
 </p>
 <h1 align="center" style="border: 0;"> Readme </h1>
 
-Readme is a boilerplate for creating organized readme or documentation for any project. The logo size used for this documentation is `150 x 150` size. Go through the installation section to start using this documentation for your project. If you has many contents, start with Table Of Contents. 
+Readme is a boilerplate for creating organized readme or documentation for any project. The logo size used for this documentation is `150 x 150` size. Go through the installation section to start using this documentation for your project. If you have many contents, start with Table Of Contents. 
 
 The project comes with Code Of Conduct, Contributing and Changelog file to help you make your documentation more in depth.
 
@@ -79,8 +79,8 @@ Check the [installation](#installation) section to start contributing to this pr
 
 **Sample list below**
 
-- [Code Of Conduct](#) 
-- [Contributing.MD](#)
+- [CODE OF CONDUCT](CODE_OF_CONDUCT.md) 
+- [CONTRIBUTING](CONTRIBUTING.md)
  
 ## License
 
@@ -93,4 +93,4 @@ Check the [installation](#installation) section to start contributing to this pr
  
 ## Changelog
 
-[changelog.md](#)
+[CHANGELOG.md](CHANGELOG.md)
