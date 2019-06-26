@@ -30,9 +30,7 @@ Example to install dependencies
  
 ## Installation
 
-To use this project you can either fork to your account and use readme file or download using curl / wget.
-
-[![fork this repo](http://githubbadges.com/fork.svg?user=boennemann&repo=badges&style=flat)](https://github.com/ashiishme/readme/fork)
+Download the readme file using `wget / curl` and start editing according to your need.
 
 ```
 wget https://raw.githubusercontent.com/ashiishme/readme/master/README.md -O README.md
@@ -42,7 +40,11 @@ wget https://raw.githubusercontent.com/ashiishme/readme/master/README.md -O READ
 curl https://raw.githubusercontent.com/ashiishme/readme/master/README.md > README.md
 ```
 
-Or just clone the whole project.
+You can `fork` the project.
+
+[![fork this repo](http://githubbadges.com/fork.svg?user=boennemann&repo=badges&style=flat)](https://github.com/ashiishme/readme/fork)
+
+You can clone the whole project.
 
 ```
 git clone https://github.com/ashiishme/readme.git
