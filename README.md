@@ -18,5 +18,24 @@ Awesome Readme is a boilerplate for creating organized readme or documentation f
  - [Contribution](#contribution)
  - [License](#license)
  - [Additional Details / References](#additional)
+ - [Changelog](#changelog)
  
  ## Prerequisites
+ 
+ ## Installation
+ 
+ ## Demo
+ 
+ ## Tests & Usages
+ 
+ ## Author
+ 
+ ## Contributors
+ 
+ ## Contribution
+ 
+ ## License
+ 
+ ## Additional Details / References
+ 
+ ## Changelog
