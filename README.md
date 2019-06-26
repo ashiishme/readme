@@ -20,22 +20,36 @@ Awesome Readme is a boilerplate for creating organized readme or documentation f
  - [Additional Details / References](#additional)
  - [Changelog](#changelog)
  
- ## Prerequisites
+## Prerequisites
  
- ## Installation
+If your project needs any prerequisites or dependencies, list them here or remove.
  
- ## Demo
+```
+Example to install dependencies
+```
  
- ## Tests & Usages
+## Installation
+
+To use this project you can either fork to your account or clone locally.
+
+[![fork this repo](http://githubbadges.com/fork.svg?user=boennemann&repo=badges&style=flat)](https://github.com/ashiishme/awesome-readme/fork)
+
+```
+git clone https://github.com/ashiishme/awesome-readme.git
+```
  
- ## Author
+## Demo
  
- ## Contributors
+## Tests & Usages
+ z
+## Author
  
- ## Contribution
+## Contributors
  
- ## License
+## Contribution
  
- ## Additional Details / References
+## License
  
- ## Changelog
+## Additional Details / References
+ 
+## Changelog
