@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.askbuddie.com">
-        <img src="ask-buddie-icon.png" align="center" width="180px" height="130px" alt="askbuddie-icon"/>
+        <img src="ashiish-icon.png" align="center" alt="ashiish-icon"/>
     </a>
 </p>
 <h1 align="center" style="border: 0;"> Readme </h1>
