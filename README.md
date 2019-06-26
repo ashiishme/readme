@@ -5,7 +5,9 @@
 </p>
 <h1 align="center" style="border: 0;"> Readme </h1>
 
-Readme is a boilerplate for creating organized readme or documentation for any project. You can add logo & title of the project, installation and dependencies details, available demo links, usage & test cases, author details, Contributors list, license and change logs.
+Readme is a boilerplate for creating organized readme or documentation for any project. The logo size used for this documentation is `150 x 150` size. Go through the installation section to start using this documentation for your project. If you has many contents, start with Table Of Contents. 
+
+The project comes with Code Of Conduct, Contributing and Changelog file to help you make your documentation more in depth.
 
 
 ## Table Of Contents
