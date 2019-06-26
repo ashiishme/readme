@@ -4,9 +4,9 @@
     </a>
 </p>
 
-<h1 align="center"> Awesome Readme </h1>
+<h1 align="center"> Readme </h1>
 
-Awesome Readme is a boilerplate for creating organized readme or documentation for any project. You can add logo & title of the project, installation and dependencies details, available demo links, usage & test cases, author details, Contributors list, license and change logs.
+Readme is a boilerplate for creating organized readme or documentation for any project. You can add logo & title of the project, installation and dependencies details, available demo links, usage & test cases, author details, Contributors list, license and change logs.
 
 ## Table Of Contents
  - [Prerequisites](#prerequisites)
@@ -32,10 +32,10 @@ Example to install dependencies
 
 To use this project you can either fork to your account or clone locally.
 
-[![fork this repo](http://githubbadges.com/fork.svg?user=boennemann&repo=badges&style=flat)](https://github.com/ashiishme/awesome-readme/fork)
+[![fork this repo](http://githubbadges.com/fork.svg?user=boennemann&repo=badges&style=flat)](https://github.com/ashiishme/readme/fork)
 
 ```
-git clone https://github.com/ashiishme/awesome-readme.git
+git clone https://github.com/ashiishme/readme.git
 ```
  
 ## Demo
