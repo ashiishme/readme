@@ -44,7 +44,7 @@ curl https://raw.githubusercontent.com/ashiishme/readme/master/README.md > READM
 
 You can `fork` the project.
 
-[![fork this repo](http://githubbadges.com/fork.svg?user=boennemann&repo=badges&style=flat)](https://github.com/ashiishme/readme/fork)
+[![fork this repo](http://githubbadges.com/fork.svg?user=ashiishme&repo=readme&style=flat&color=fff&background=da644e)](https://github.com/ashiishme/readme/fork)
 
 You can clone the whole project.
 
@@ -94,3 +94,10 @@ Check the [installation](#installation) section to start contributing to this pr
 ## Changelog
 
 [CHANGELOG.md](CHANGELOG.md)
+
+
+---
+
+Thank you for using this documentation. If you love this project give it a star.
+
+[![star this repo](http://githubbadges.com/star.svg?user=ashiishme&repo=readme&style=flat&color=fff&background=da644e)](https://github.com/ashiishme/readme)
